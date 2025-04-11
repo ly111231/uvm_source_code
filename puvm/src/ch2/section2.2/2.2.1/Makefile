@@ -19,7 +19,7 @@ sim:
 verdi:
 	verdi -ssf tb.fsdb &
 clean:
-	rm -rf csrc verdiLog sim.daidir \
+	rm -rf csrc verdiLog simv.daidir \
 	novas.* \
 	vc_hdrs.h \
 	simv \
